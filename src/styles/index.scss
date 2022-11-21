@@ -1,0 +1,9 @@
+@import "global.scss";
+@import "font.scss";
+@import "variables.scss";
+
+// Блоки
+@import "./blocks/main.scss";
+@import "./blocks/equation.scss";
+@import "./blocks/answer.scss";
+@import "./blocks/message.scss";
